@@ -8,14 +8,24 @@ HUGO: 簡單且快速靜態網站建制
 
 not yet
 
-## 頁面
+## 頁面目錄及內容
 
-頁面處理
+頁面內容目錄處理，檔案放置於 `content` 資料夾中
 
-### 頁面資源( [Page Resource](page_resource.md) )
+### 頁面目錄類型
 
-頁面內所使用的內容，包含圖片、文件...等。
+分為 `single` 和 `list`
 
-### 頁面綁定( [Page Bundle](page_bundle.md) )
+### 頁面內容
 
-一種頁面資源的群組
+內容綁定
+
+### 靜態資源
+
+not yet
+
+----
+# 參考
+
+* [Hugo 官網](https://gohugo.io/documentation/)
+* [Mike Dane Youtube](https://www.youtube.com/watch?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3&v=qtIqKaDlqXo)
