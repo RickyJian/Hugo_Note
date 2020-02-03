@@ -1,0 +1,15 @@
+.
+├── andex.md
+├── dir1
+│   ├── _index.md
+│   ├── dir2
+│   │   ├── _index.md
+│   │   └── third.md
+│   ├── dir3
+│   │   ├── forth.md
+│   │   └── index.md
+│   └── second.md
+├── first.md
+└── test.txt
+
+3 directories, 9 files

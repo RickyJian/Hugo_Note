@@ -1,20 +1,20 @@
 # Hugo Note
 
-[HUGO](https://gohugo.io/): 簡單且快速靜態網站建制
-
-HUGO: 簡單且快速靜態網站建制
+[HUGO](https://gohugo.io/): 簡單且快速靜態網站建制。
 
 ## 安裝
 
 not yet
 
-## 頁面目錄及內容
+## Content 目錄及內容介紹
 
-頁面內容目錄處理，檔案放置於 `content` 資料夾中
+### [目錄類型](content_directory.md)
 
-### [頁面目錄類型](page_directory.md)
+分為 `單一` 和 `列表` 類型
 
-分為 `單一` 和 `列表` 類別
+### Headless Bundle
+
+not yet
 
 ### 頁面內容
 
