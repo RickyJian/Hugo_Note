@@ -8,10 +8,12 @@
 </head>
 <body>
   {{.Content}}
+
+  <p>id: {{.Params.id}}</p>
   {{ range .RegularPages }}
   <ul>
         <li>
-            {{.Title}}
+            {{.Title}} 
         </li>
     </ul>
   {{ end }}
